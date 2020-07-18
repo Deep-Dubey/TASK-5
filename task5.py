@@ -1,6 +1,6 @@
 import pandas as pd
 
-df=pd.read_csv("C:\\Users\\AKS\\Desktop\\MLOps_workspace\\access_log.csv")
+df=pd.read_csv("C:\\Users\\DEEP_DUBEY\\Desktop\\MLOps\\access_log.csv")
 
 df=df[['IP','Time']]
 
